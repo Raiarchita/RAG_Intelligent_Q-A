@@ -8,3 +8,6 @@ documents.
 o Or external sources like Wikipedia or ArXiv via API-based scraping or summarization. 
 o LangGraph orchestrates the modular workflow of document retrieval, query 
 classification, and response generation.
+![image](https://github.com/user-attachments/assets/14173de0-b7b3-4b57-835c-753db2cbca78)
+
+![image](https://github.com/user-attachments/assets/0e20008d-179c-49b1-bd91-b62f49f6ac7e)
